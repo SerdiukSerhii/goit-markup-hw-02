@@ -120,6 +120,10 @@ a {
   background-color: #f4f4fd;
 }
 
+.team-list {
+  background-color: #fff;
+}
+
 .team-title {
   font-size: 36px;
   line-height: 1.11;
