@@ -72,10 +72,12 @@ a {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #fff;
 }
 
 .hero-button-item {
+  font-weight: 500;
   color: #fff;
   font-size: 16px;
   line-height: 1.5;
@@ -122,6 +124,8 @@ a {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
 }
 
 .team-name-photo {
@@ -145,10 +149,16 @@ a {
   color: #2e2f42;
 }
 
+.portfolio-list {
+  background-color: #fff;
+}
+
 .portfolio-title {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
 }
 
 .portfolio-name-foto {
